@@ -2,12 +2,12 @@
 import './App.css'
 import { useState } from 'react'
 
-function App() {
+const App = ()=> {
   const [count, setCount] = useState(0)
 
   return (
     <main>
-        
+
     </main>
   )
 }
