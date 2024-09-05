@@ -1,14 +1,14 @@
 
 import './App.css'
 import { useState } from 'react'
+import { ProductCard } from './components/product-card/product-card.jsx'
 
-const App = ()=> {
-  const [count, setCount] = useState(0)
+function App () {
+  
+
 
   return (
-    <main>
-
-    </main>
+  <main></main>
   )
 }
 
