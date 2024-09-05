@@ -1,0 +1,14 @@
+* renderizar de forma condicional em react
+
+
+{ so criamos o component html
+  agora vamos colocar nele todos os elementos que queremos
+  que apareça em tela  
+}
+
+
+*aprendi q o methodo .map() ele mapeia o array criado e 
+apartir desse array ele cria um novo array
+dessa forma toda vez que criarmos um novo array
+dentro do raio de operaçao do Map um novo item sera
+mostrado em tela 
