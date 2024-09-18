@@ -12,3 +12,9 @@ apartir desse array ele cria um novo array
 dessa forma toda vez que criarmos um novo array
 dentro do raio de operaçao do Map um novo item sera
 mostrado em tela 
+
+* npx eslint --init{
+  com esse comando nos estamos adicionando as dependencias
+  do nosso projeto um comando que checa sintaxe
+  e encontra problemas,assim auxiliando na construçao  
+}
