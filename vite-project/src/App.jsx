@@ -1,15 +1,12 @@
+import { PageProductCard } from "./components/card/page-product-card/page-product-card"
 
-import './App.css'
-import { useState } from 'react'
-import { ProductCard } from './components/product-card/product-card.jsx'
 
 function App () {
-  
-
-
   return (
-  <main></main>
-  )
+     <>
+      <PageProductCard/>
+     </>
+ )
 }
 
 export default App
